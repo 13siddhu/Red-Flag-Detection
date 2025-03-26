@@ -1,0 +1,589 @@
+Girl_age,Relationship_Status,Past_RelationShips,Body_Count,Easy_Moveon,Looks,Response,Introvert/Extrovert,Superiority_Complex,Mistake_Acceptance,Open_to_Phone,Pays_Bill,High_Maintenance,Male_Bestfriends,Time_with_male_friends(In min),Feminist,GenZ_prespective,Red_Flag?
+12,Yes,0,0,Mid,0,Normal,I,Yes,No,Yes,No,No,0,0,Yes,No,White
+12,Yes,1,0,Mid,4,Normal,E,No ,No,No,No,No,0,0,No,No,White
+12,Yes,0,0,Mid,9,Normal,I,No ,No,Yes,No,No,0,0,Yes,No,Green
+12,No,1,0,Mid,2,Interested ,E,No ,No,No,No,Yes,0,0,No,Yes,Red
+12,Yes,0,0,Mid,3,Normal,I,No ,Yes,No,No,No,0,0,Yes,No,Green
+12,Yes,1,0,Low,7,Interested ,I,No ,No,No,No,No,0,0,No,No,Green
+12,No,0,0,Mid,6,Not interested ,I,Yes,No,No,Yes,No,1,20,No,No,White
+12,No,1,0,Low,7,Normal,E,No ,No,Yes,No,No,0,0,No,Yes,White
+12,Yes,0,0,High,9,Normal,E,Yes,No,Yes,No,No,1,20,Yes,No,Red
+12,No,1,0,Mid,10,Normal,I,No ,Yes,Yes,No,No,1,20,Yes,No,Green
+12,No,0,0,Mid,4,Normal,E,Yes,No,No,No,Yes,1,20,Yes,No,Red
+12,No,1,0,High,6,Normal,I,No ,No,No,Yes,Yes,0,0,No,No,White
+12,No,1,0,Mid,9,Normal,E,No ,No,Yes,No,No,1,20,Yes,No,White
+12,Yes,7,0,Mid,8,Normal,I,No ,No,Yes,No,No,0,0,Yes,No,Red
+12,Yes,0,0,Mid,7,Interested ,E,No ,No,Yes,No,No,1,20,No,Yes,Green
+12,Yes,1,0,Mid,8,Not interested ,I,No ,No,Yes,Yes,No,1,20,No,No,Green
+12,No,0,0,Mid,9,Not interested ,I,No ,No,No,No,No,0,0,No,No,White
+12,Yes,10,1,High,7,Normal,E,No ,No,Yes,No,No,1,20,No,No,Red
+12,No,1,0,Low,7,Normal,E,No ,No,No,Yes,No,0,0,No,No,White
+12,Yes,0,0,Mid,9,Normal,I,No ,No,Yes,No,No,1,20,No,No,Green
+12,Yes,1,0,Low,6,Normal,E,No ,Yes,Yes,No,No,0,0,No,No,Green
+12,No,0,0,Mid,7,Normal,E,No ,Yes,Yes,No,Yes,1,20,Yes,Yes,Red
+12,Yes,1,0,Low,10,Normal,I,No ,No,Yes,No,No,0,0,Yes,No,White
+12,Yes,0,0,Mid,10,Normal,E,No ,No,Yes,No,No,1,20,Yes,No,Green
+12,No,0,0,Mid,10,Normal,I,No ,No,No,No,No,0,0,No,No,White
+12,No,0,0,Mid,6,Not interested ,E,No ,No,Yes,No,No,1,20,Yes,No,White
+12,Yes,1,0,High,5,Interested ,I,No ,No,No,No,No,1,20,No,Yes,White
+12,No,0,0,Mid,8,Not Interested ,I,No ,No,No,No,No,0,0,Yes,No,White
+12,No,1,0,Mid,9,Interested ,I,No ,No,No,No,Yes,2,40,No,No,White
+12,Yes,1,0,Mid,9,Not interested ,E,No ,No,No,No,No,1,20,No,No,White
+13,No,1,1,Low,0,Normal,E,No ,No,Yes,Yes,No,0,0,No,Yes,White
+13,Yes,1,0,Mid,4,Not interested ,I,Yes,Yes,Yes,No,Yes,1,20,Yes,No,Red
+13,Yes,1,0,Mid,9,Normal,E,No ,No,Yes,No,No,0,0,Yes,No,White
+13,No,1,0,High,2,Normal,I,No ,No,No,No,No,1,20,Yes,No,White
+13,Yes,0,0,Mid,3,Normal,E,No ,No,No,No,No,0,0,No,No,White
+13,No,0,0,Mid,7,Normal,I,No ,No,Yes,Yes,No,1,20,Yes,No,Green
+13,No,0,0,Mid,6,Normal,E,No ,Yes,Yes,No,No,0,0,Yes,No,Green
+13,No,0,0,Mid,7,Not interested ,I,Yes,No,Yes,No,No,1,20,No,Yes,Red
+13,Yes,0,0,High,9,Not interested ,I,Yes,No,Yes,No,No,0,0,No,No,White
+13,No,0,0,Low,10,Not interested ,E,No ,No,No,Yes,No,3,60,No,No,White
+13,No,1,0,Mid,4,Normal,E,No ,No,Yes,No,Yes,1,20,No,No,White
+13,Yes,1,0,Mid,6,Normal,I,No ,No,No,No,No,0,0,No,No,White
+13,No,1,0,Mid,9,Normal,E,No ,No,Yes,Yes,No,1,20,No,No,White
+13,Yes,1,0,Mid,8,Normal,E,No ,No,Yes,No,Yes,0,0,No,No,White
+13,Yes,1,0,Mid,7,Normal,I,No ,No,Yes,No,No,1,20,Yes,Yes,White
+13,No,0,0,Mid,8,Normal,E,No ,No,Yes,No,No,0,0,Yes,No,White
+13,No,0,0,Mid,9,Normal,I,No ,No,Yes,No,No,1,20,Yes,No,White
+13,No,0,0,Mid,7,Normal,E,No ,Yes,No,No,No,2,40,No,No,Green
+13,Yes,1,0,Mid,7,Normal,I,No ,Yes,Yes,No,No,3,0,Yes,No,Green
+13,Yes,2,0,Mid,9,Interested ,I,No ,No,No,No,No,3,60,No,Yes,White
+13,Yes,1,0,Mid,6,Normal,I,No ,No,No,No,No,0,0,Yes,No,White
+13,Yes,1,0,Mid,7,Not interested ,E,No,No,No,No,No,0,0,No,No,White
+13,No,0,0,Mid,10,Interested ,E,No,No,No,No,No,3,60,No,No,White
+13,Yes,1,0,High,10,Normal,I,Yes,No,Yes,No,Yes,3,60,No,Yes,Red
+13,Yes,2,0,High,10,Interested ,E,Yes,No,Yes,Yes,No,1,20,Yes,No,White
+13,No,1,0,Mid,6,Normal,I,No ,No,Yes,No,No,2,40,Yes,No,Green
+13,No,5,1,Low,5,Not interested ,E,No ,No,No,No,No,2,40,Yes,No,White
+13,Yes,1,0,Low,8,Normal,I,No ,No,No,No,No,1,20,No,No,White
+13,No,4,0,Mid,9,Normal,E,No ,Yes,Yes,No,No,0,0,Yes,No,White
+13,No,1,0,Mid,9,Normal,I,No ,No,Yes,Yes,Yes,1,20,Yes,No,White
+13,No,5,0,High,0,Normal,I,Yes,No,Yes,No,Yes,1,20,No,Yes,Red
+14,No,6,1,Mid,4,Normal,E,Yes,No,Yes,No,Yes,2,40,No,No,Red
+14,Yes,2,0,Low,9,Normal,E,No ,No,No,No,No,3,60,No,No,White
+14,Yes,5,0,Mid,2,Normal,I,No ,Yes,Yes,Yes,No,0,0,No,No,Green
+14,Yes,2,0,High,3,Normal,E,No ,No,No,No,Yes,1,20,No,No,White
+14,No,1,0,Low,7,Not interested ,E,No ,No,Yes,No,No,2,40,No,No,White
+14,Yes,1,0,Mid,6,Not interested ,I,No ,No,Yes,Yes,No,0,0,No,No,White
+14,No,2,0,Mid,7,Normal,E,No ,No,Yes,No,Yes,1,20,Yes,Yes,Red
+14,Yes,1,0,Mid,9,Normal,I,No ,No,Yes,No,No,2,40,Yes,No,Green
+14,Yes,2,0,Mid,10,Normal,E,No ,No,Yes,No,Yes,0,0,Yes,No,White
+14,No,1,0,Mid,4,Not interested ,I,No ,No,No,No,No,1,20,No,No,White
+14,Yes,1,0,Low,6,Not interested ,I,No ,No,Yes,No,No,2,40,Yes,No,White
+14,Yes,2,0,Mid,9,Normal,I,No ,No,No,No,No,3,60,No,Yes,White
+14,No,1,0,Low,8,Normal,E,No ,No,No,No,No,3,60,Yes,No,White
+14,No,2,0,High,7,Normal,E,No,Yes,No,No,No,0,0,No,No,Green
+14,Yes,2,0,Mid,8,Interested ,I,No,Yes,No,No,No,2,40,No,No,Green
+14,No,2,0,Mid,9,Interested ,E,No,No,Yes,No,No,2,40,No,Yes,White
+14,No,3,1,High,7,Not Interested ,I,Yes,No,Yes,No,No,3,60,Yes,No,Red
+14,Yes,3,0,Mid,7,Not interested ,E,No ,No,Yes,Yes,Yes,0,0,Yes,No,White
+14,No,3,0,Mid,9,Not interested ,I,No ,No,No,No,Yes,2,40,Yes,No,Red
+14,Yes,1,0,Mid,6,Normal,E,No ,No,No,No,Yes,3,60,No,No,White
+14,Yes,3,0,Mid,7,Normal,I,No ,No,Yes,No,Yes,3,60,Yes,No,White
+14,No,3,0,Mid,10,Not interested ,I,No ,No,Yes,No,No,1,20,Yes,No,Green
+14,Yes,2,0,High,10,Not interested ,E,Yes,No,Yes,Yes,No,0,0,No,Yes,Red
+14,No,0,0,Low,10,Normal,E,Yes,No,Yes,No,No,3,60,No,No,Red
+14,No,1,0,Mid,6,Normal,I,No ,Yes,No,No,No,2,40,No,No,Green
+14,No,2,0,Low,5,Normal,E,No ,No,Yes,No,No,4,0,No,No,Green
+14,Yes,4,1,Mid,8,Interested ,E,No ,No,No,Yes,No,4,80,No,No,White
+14,No,1,0,Low,9,Normal,I,No ,No,Yes,No,No,4,80,No,No,Green
+14,No,2,0,Mid,9,Interested ,E,No ,No,Yes,No,No,0,0,No,No,Green
+14,Yes,1,0,Mid,0,Not interested ,I,No ,Yes,Yes,Yes,No,0,0,Yes,Yes,White
+14,No,5,2,Mid,4,Normal,E,No ,No,Yes,No,No,1,20,Yes,No,Red
+15,Yes,2,0,High,9,Normal,I,No ,No,Yes,No,No,2,40,Yes,No,White
+15,Yes,2,0,Mid,2,Normal,I,No ,No,No,No,No,3,60,No,No,White
+15,No,5,0,Mid,3,Normal,I,No ,No,Yes,No,No,5,100,Yes,No,White
+15,No,3,0,Mid,7,Normal,E,No ,No,No,No,No,0,0,No,Yes,White
+15,No,2,0,Low,6,Normal,E,No ,No,No,No,No,2,40,Yes,No,White
+15,Yes,1,0,Mid,7,Normal,I,No,No,No,No,Yes,4,80,No,No,White
+15,Yes,0,0,Mid,9,Interested ,E,No,No,No,No,Yes,2,40,No,No,White
+15,Yes,0,0,High,10,Not interested ,I,Yes,No,Yes,No,Yes,0,0,No,Yes,Red
+15,Yes,2,0,Mid,4,Not interested ,E,Yes,No,Yes,No,No,1,20,Yes,No,Red
+15,No,1,0,Mid,6,Normal,I,No ,Yes,Yes,No,No,4,80,Yes,No,White
+15,Yes,3,0,Mid,9,Normal,E,No ,Yes,No,Yes,No,3,60,Yes,No,White
+15,Yes,4,0,Mid,8,Normal,I,No ,No,No,No,No,6,120,No,No,Red
+15,No,2,0,High,7,Normal,I,No ,No,Yes,No,Yes,2,40,Yes,No,Red
+15,No,1,0,Low,8,Normal,E,No ,No,Yes,No,No,0,0,Yes,No,White
+15,Yes,2,0,Mid,9,Normal,E,Yes,No,Yes,No,No,5,100,No,Yes,Red
+15,No,2,1,Mid,7,Normal,I,Yes,No,Yes,Yes,No,1,20,No,No,White
+15,No,0,0,Mid,7,Normal,E,No ,No,No,No,No,1,20,No,No,White
+15,No,2,0,Mid,9,Not interested ,E,No ,No,Yes,No,No,5,100,No,No,White
+15,No,14,3,Mid,6,Interested ,I,No ,No,No,No,Yes,1,20,No,No,Red
+15,Yes,1,0,Mid,7,Not Interested ,E,No ,No,Yes,Yes,Yes,0,0,No,No,White
+15,Yes,1,0,Mid,10,Interested ,I,No ,Yes,Yes,No,No,0,0,No,No,Green
+15,Yes,0,0,Mid,10,Not interested ,E,No ,No,Yes,No,No,1,20,Yes,Yes,Red
+15,No,11,0,Mid,10,Normal,I,No ,No,Yes,Yes,No,0,0,Yes,No,Red
+15,Yes,3,0,Mid,6,Not interested ,I,No ,No,Yes,No,No,0,0,Yes,No,White
+15,No,3,0,Mid,5,Normal,I,No ,No,No,No,Yes,0,0,No,No,White
+15,Yes,5,0,Mid,8,Normal,E,No ,Yes,Yes,No,No,0,0,Yes,No,White
+15,Yes,6,0,Mid,9,Normal,E,No ,No,No,No,No,6,120,No,Yes,Red
+15,No,2,0,High,9,Normal,I,No ,No,No,No,No,0,0,Yes,No,White
+15,Yes,5,0,High,0,Normal,E,No,No,No,No,No,0,0,No,No,White
+15,Yes,4,0,Mid,4,Not interested ,I,No,No,No,No,No,1,20,No,No,White
+15,No,0,0,Low,9,Not interested ,E,No,No,Yes,No,Yes,2,40,No,No,White
+15,No,0,0,Low,2,Not interested ,I,Yes,No,Yes,No,Yes,2,40,Yes,No,Red
+16,Yes,2,0,Mid,3,Normal,E,No ,No,Yes,No,No,0,0,Yes,No,White
+16,No,2,0,Mid,7,Normal,I,No ,No,No,No,No,0,0,Yes,Yes,White
+16,No,2,0,High,6,Normal,I,No ,No,No,Yes,No,1,20,No,No,White
+16,Yes,4,0,Mid,7,Normal,E,No ,No,Yes,No,No,2,40,Yes,No,White
+16,No,4,0,Low,9,Normal,E,No ,Yes,Yes,No,Yes,3,60,Yes,Yes,Red
+16,Yes,12,3,Mid,10,Normal,I,Yes,Yes,Yes,No,No,1,20,No,No,Red
+16,Yes,0,1,High,4,Normal,E,Yes,No,Yes,No,No,0,0,No,No,White
+16,No,2,0,Low,6,Normal,E,No ,No,No,Yes,No,3,0,No,No,Green
+16,Yes,2,0,Mid,9,Normal,I,No ,No,Yes,No,No,3,60,No,Yes,White
+16,No,3,0,Mid,8,Interested ,E,No ,No,No,No,No,1,20,No,No,White
+16,No,6,0,Mid,7,Normal,I,No ,No,Yes,No,Yes,2,40,No,No,White
+16,No,2,0,Mid,8,Not interested ,E,No ,No,Yes,Yes,Yes,0,0,No,Yes,White
+16,Yes,1,0,Mid,9,Interested ,I,No ,No,Yes,No,No,0,0,Yes,No,White
+16,No,0,0,Low,7,Normal,I,No ,No,Yes,No,No,1,20,Yes,Yes,White
+16,No,0,0,Mid,7,Interested ,I,No ,No,Yes,Yes,No,2,40,Yes,No,White
+16,Yes,2,0,Low,9,Normal,E,No ,Yes,No,No,No,3,60,No,Yes,White
+16,No,2,0,High,6,Not interested ,E,No ,No,Yes,No,Yes,1,20,Yes,No,Red
+16,Yes,2,0,Mid,7,Normal,I,No ,No,No,No,No,0,0,No,No,White
+16,Yes,4,1,Mid,10,Normal,E,No ,No,No,No,No,4,80,Yes,Yes,White
+16,No,3,0,High,10,Normal,I,No,No,No,No,No,2,40,No,No,White
+16,No,1,0,Mid,10,Normal,E,No,Yes,No,No,No,4,80,No,Yes,White
+16,No,3,0,Mid,6,Normal,I,No,No,Yes,No,No,5,100,No,No,White
+16,Yes,0,0,Mid,5,Normal,E,Yes,No,Yes,No,Yes,6,120,Yes,No,Red
+16,Yes,0,0,Mid,8,Normal,I,No ,No,Yes,No,Yes,4,80,Yes,Yes,Red
+16,Yes,1,0,Mid,9,Normal,I,No ,No,No,No,No,0,0,Yes,No,White
+16,Yes,2,0,High,9,Not interested ,E,No ,No,No,No,Yes,3,60,No,Yes,White
+16,No,2,0,Low,0,Not interested ,E,No ,Yes,Yes,No,No,5,40,Yes,No,White
+16,Yes,2,0,Mid,4,Normal,I,No ,Yes,Yes,Yes,No,4,80,Yes,No,Green
+16,Yes,4,0,Low,9,Normal,E,Yes,No,Yes,No,Yes,1,20,No,No,White
+16,No,16,4,Mid,2,Normal,E,Yes,No,Yes,Yes,No,0,0,No,Yes,Red
+16,No,1,0,Low,3,Not interested ,I,No ,No,No,No,No,2,40,No,No,White
+17,Yes,0,0,Mid,7,Not interested ,E,No ,No,Yes,No,Yes,6,120,No,No,White
+17,No,4,0,Mid,6,Normal,I,No ,No,No,No,No,4,80,No,No,White
+17,No,0,0,Mid,7,Normal,E,No ,No,Yes,No,No,1,20,No,Yes,White
+17,No,3,0,High,9,Normal,I,No ,No,Yes,No,Yes,0,0,No,No,White
+17,No,12,0,Mid,10,Interested ,I,No ,Yes,Yes,No,Yes,4,80,Yes,No,White
+17,Yes,4,0,Mid,4,Interested ,I,No ,No,Yes,No,No,4,80,Yes,No,White
+17,Yes,10,0,Mid,6,Not Interested ,E,No ,No,Yes,No,No,1,20,Yes,No,White
+17,Yes,1,0,Low,9,Not interested ,E,No ,No,No,No,No,3,60,No,Yes,White
+17,No,0,0,Mid,8,Not interested ,I,No ,No,Yes,No,No,5,100,Yes,No,White
+17,Yes,5,0,Mid,7,Normal,E,No ,No,No,No,Yes,2,40,No,No,White
+17,No,21,5,High,8,Normal,I,No ,No,No,No,No,3,60,Yes,No,Red
+17,Yes,6,0,Mid,9,Not interested ,E,No,Yes,No,No,No,5,100,No,Yes,White
+17,Yes,4,0,Mid,7,Not interested ,I,No,No,No,No,Yes,4,80,No,No,White
+17,No,0,0,Mid,7,Normal,E,No,Yes,Yes,No,No,1,20,No,Yes,Green
+17,Yes,3,0,Mid,9,Normal,I,Yes,Yes,Yes,Yes,No,3,60,Yes,No,White
+17,Yes,3,0,High,6,Normal,I,No ,No,Yes,Yes,Yes,6,120,Yes,Yes,Red
+17,No,2,0,Low,7,Interested ,E,No ,No,No,No,Yes,6,120,Yes,No,Red
+17,No,3,0,Mid,10,Normal,E,No ,No,No,No,No,1,20,No,Yes,White
+17,Yes,5,2,Mid,10,Interested ,I,No ,No,Yes,No,No,1,20,Yes,No,White
+17,No,2,0,Mid,10,Not interested ,E,No ,No,Yes,No,No,5,100,Yes,Yes,Red
+17,No,0,0,Mid,6,Normal,E,Yes,No,Yes,No,No,5,100,No,No,White
+17,Yes,0,0,Mid,5,Normal,I,Yes,No,Yes,Yes,Yes,2,40,No,No,Red
+17,No,2,0,Mid,8,Normal,E,No ,No,No,No,No,0,0,No,No,White
+17,Yes,0,0,Mid,9,Normal,I,No ,No,Yes,No,Yes,2,40,No,Yes,White
+17,Yes,0,0,Mid,9,Normal,E,No ,Yes,No,No,No,2,40,No,No,Green
+17,No,4,0,Mid,6,Normal,I,No ,Yes,Yes,No,No,0,0,No,No,Green
+17,Yes,1,2,Mid,4,Normal,I,No ,No,Yes,No,No,0,0,No,No,White
+17,No,5,0,Mid,9,Interested ,I,No ,No,Yes,No,Yes,1,20,Yes,Yes,Red
+17,No,0,0,Mid,2,Not interested ,E,No,No,Yes,No,Yes,2,40,Yes,No,White
+17,No,5,0,Mid,3,Not interested ,E,No,No,Yes,No,No,2,40,Yes,No,White
+17,Yes,2,0,High,7,Normal,I,No,No,No,Yes,No,3,60,Yes,No,White
+18,No,0,0,High,6,Normal,E,Yes,No,Yes,No,No,0,0,Yes,No,White
+18,No,11,2,Mid,7,Normal,I,No,No,No,No,No,1,20,Yes,Yes,Red
+18,Yes,2,0,Low,9,Normal,E,Yes,Yes,No,No,Yes,4,80,Yes,No,Red
+18,No,7,3,Low,10,Normal,I,No,No,No,No,No,2,40,Yes,No,White
+18,Yes,0,0,Mid,4,Normal,E,Yes,No,No,No,Yes,3,60,Yes,No,Red
+18,Yes,0,0,Mid,6,Normal,I,No,No,Yes,No,No,2,40,Yes,Yes,White
+18,No,0,0,High,9,Normal,I,No,No,Yes,Yes,No,0,0,No,No,Green
+18,No,1,0,Mid,8,Not interested ,E,No,Yes,Yes,Yes,No,1,20,No,Yes,Green
+18,No,5,0,Low,7,Interested ,E,No,No,No,No,Yes,2,40,No,No,White
+18,Yes,3,0,Mid,8,Not Interested ,I,No,Yes,No,No,Yes,3,60,No,Yes,White
+18,Yes,2,0,High,9,Interested ,E,No,Yes,Yes,No,Yes,1,20,Yes,No,White
+18,Yes,5,0,Low,7,Not interested ,E,No,No,Yes,No,No,0,0,Yes,Yes,White
+18,Yes,9,0,Mid,7,Normal,I,No,No,Yes,No,No,2,40,Yes,No,White
+18,No,7,0,Mid,9,Not interested ,E,Yes,No,Yes,No,No,2,40,Yes,Yes,Red
+18,Yes,10,3,Mid,6,Normal,I,No,No,No,No,Yes,1,20,Yes,No,Red
+18,Yes,2,0,Mid,7,Normal,E,No,No,Yes,Yes,No,3,0,YEs,No,Green
+18,No,0,0,Mid,10,Normal,I,No,No,No,No,No,0,0,Yes,No,White
+18,No,6,0,Low,10,Normal,I,No,No,Yes,No,Yes,0,0,Yes,Yes,Red
+18,Yes,6,1,Mid,10,Normal,I,No,No,Yes,No,No,4,80,Yes,No,White
+18,No,5,0,Low,6,Not interested ,E,No,No,Yes,No,No,2,40,Yes,No,White
+18,No,2,0,High,5,Not interested ,E,No,Yes,Yes,No,Yes,2,40,Yes,No,White
+18,No,2,0,Mid,8,Not interested ,I,No,Yes,Yes,No,Yes,0,0,Yes,Yes,White
+18,No,6,0,Mid,9,Normal,E,No,No,No,Yes,No,1,20,No,No,White
+18,Yes,2,0,High,9,Normal,I,No,No,Yes,Yes,Yes,4,80,Yes,No,White
+18,Yes,20,0,Mid,0,Normal,E,Yes,No,No,No,No,1,20,Yes,No,Red
+18,Yes,8,3,Mid,4,Normal,I,No,No,No,No,No,0,0,No,No,White
+18,No,10,0,Mid,9,Normal,E,Yes,No,No,No,Yes,2,40,Yes,Yes,Red
+18,Yes,3,0,Mid,2,Normal,I,Yes,No,No,No,No,3,60,Yes,No,White
+18,Yes,3,0,Mid,3,Normal,I,No,No,Yes,No,No,2,40,Yes,No,White
+18,Yes,3,0,High,7,Normal,E,Yes,Yes,Yes,No,No,1,20,Yes,No,White
+18,No,3,0,Low,6,Normal,E,No,No,Yes,No,No,0,0,Yes,Yes,White
+18,Yes,3,0,Mid,7,Interested ,I,Yes,No,No,Yes,No,1,20,Yes,No,White
+18,Yes,3,0,Low,9,Normal,E,No,No,No,No,Yes,2,40,Yes,Yes,Red
+18,No,3,0,Mid,10,Not interested ,E,No,No,Yes,No,Yes,0,0,Yes,No,White
+18,Yes,3,0,Low,4,Interested ,I,No,Yes,Yes,No,No,1,20,Yes,Yes,White
+18,Yes,3,0,Mid,6,Normal,E,No,No,Yes,No,No,4,80,Yes,No,White
+18,Yes,3,0,Mid,9,Interested ,I,No,Yes,Yes,No,No,5,100,Yes,Yes,White
+19,Yes,3,0,Mid,8,Normal,E,No,Yes,No,No,No,0,0,Yes,No,Green
+19,Yes,3,3,High,7,Not interested ,I,No,No,Yes,Yes,Yes,1,20,No,Yes,White
+19,No,0,0,Mid,8,Normal,I,No,No,No,Yes,No,2,40,No,No,Green
+19,No,11,2,Mid,9,Normal,I,Yes,No,Yes,No,No,3,60,No,No,White
+19,Yes,2,0,Mid,7,Normal,E,No,No,Yes,No,No,0,0,No,No,Green
+19,No,7,3,Low,7,Normal,E,No,No,Yes,No,No,1,20,Yes,Yes,White
+19,Yes,0,0,Mid,9,Normal,I,No,No,Yes,No,No,6,120,Yes,No,White
+19,Yes,0,0,Mid,6,Normal,E,No,No,Yes,No,Yes,2,40,Yes,No,White
+19,No,0,0,High,7,Normal,I,No,No,No,No,Yes,2,40,Yes,No,White
+19,No,1,0,Mid,10,Normal,E,No,No,Yes,No,No,1,20,Yes,Yes,White
+19,No,5,1,Mid,10,Not interested ,I,No,Yes,No,Yes,No,2,40,Yes,No,Green
+19,Yes,3,0,Mid,10,Not interested ,E,No,Yes,No,No,No,0,0,Yes,No,White
+19,Yes,2,0,Mid,6,Normal,I,No,No,No,No,No,1,20,Yes,No,White
+19,Yes,5,1,High,5,Normal,I,No,No,No,No,Yes,2,40,Yes,No,White
+19,Yes,9,0,Low,8,Normal,E,Yes,No,Yes,No,No,4,80,Yes,Yes,Red
+19,No,7,0,Mid,9,Not interested ,E,No,No,Yes,No,No,0,0,Yes,No,White
+19,Yes,10,3,Mid,9,Not interested ,I,Yes,No,Yes,No,No,0,0,Yes,No,Red
+19,Yes,2,0,Mid,0,Normal,E,Yes,No,No,Yes,No,1,20,No,No,White
+19,No,0,1,Mid,4,Normal,E,No,No,No,Yes,No,2,40,Yes,Yes,White
+19,No,6,0,Mid,9,Normal,I,Yes,Yes,Yes,No,Yes,3,60,Yes,No,Red
+19,Yes,6,1,Mid,2,Interested ,E,No,No,Yes,No,Yes,0,0,No,Yes,White
+19,No,5,0,Mid,3,Interested ,I,Yes,No,Yes,No,No,1,20,Yes,No,White
+19,No,2,0,Mid,7,Not Interested ,E,No,No,Yes,No,No,2,40,Yes,Yes,White
+19,No,2,0,Mid,6,Not interested ,I,No,No,No,No,No,2,40,Yes,No,White
+19,No,6,0,Mid,7,Not interested ,I,No,Yes,Yes,No,No,3,60,Yes,Yes,White
+19,Yes,2,0,Mid,9,Normal,I,No,No,No,No,Yes,0,0,Yes,No,White
+19,Yes,20,5,Mid,10,Normal,E,No,Yes,Yes,Yes,No,1,20,Yes,Yes,Red
+19,Yes,8,3,Mid,4,Not interested ,E,No,Yes,Yes,No,No,2,40,Yes,No,White
+19,No,10,0,High,6,Not interested ,I,No,No,Yes,No,No,3,60,Yes,No,Green
+19,Yes,3,0,High,9,Normal,E,No,No,Yes,No,No,3,60,Yes,No,Green
+19,No,9,0,Mid,8,Normal,I,Yes,No,Yes,No,No,1,20,Yes,Yes,Red
+19,Yes,2,0,Low,7,Normal,E,No,No,No,No,Yes,0,0,Yes,No,White
+19,Yes,21,5,Low,8,Interested ,I,No,No,Yes,No,Yes,2,40,Yes,No,Red
+19,No,4,1,Mid,9,Normal,E,No,No,No,Yes,No,2,40,No,No,Green
+20,Yes,1,1,Mid,7,Interested ,I,No,No,No,Yes,No,4,20,No,No,Green
+20,Yes,0,0,High,7,Not interested ,I,No,No,No,No,No,1,20,No,No,White
+20,No,19,0,Mid,9,Normal,E,No,No,No,No,No,1,20,No,No,White
+20,No,5,1,Low,6,Normal,E,No,Yes,Yes,No,Yes,3,60,Yes,No,White
+20,Yes,6,1,Mid,7,Normal,I,No,Yes,Yes,No,No,2,40,Yes,No,White
+20,No,4,0,High,10,Normal,E,No,No,Yes,No,No,1,20,Yes,No,White
+20,No,2,0,Low,10,Normal,E,No,No,No,No,No,2,40,Yes,No,White
+20,Yes,1,0,Mid,10,Normal,I,Yes,No,No,No,No,2,40,Yes,No,White
+20,No,1,0,Mid,6,Normal,E,No,No,Yes,Yes,No,1,20,YEs,No,White
+20,Yes,3,0,Mid,5,Interested ,I,Yes,No,Yes,No,No,0,0,Yes,No,White
+20,Yes,15,0,Mid,8,Not interested ,E,Yes,No,Yes,No,No,1,20,Yes,Yes,Red
+20,No,2,0,Mid,9,Not interested ,I,No,No,Yes,No,No,2,40,Yes,Yes,White
+20,Yes,2,0,Low,9,Normal,I,Yes,Yes,No,No,Yes,0,0,Yes,No,Red
+20,No,0,0,Mid,0,Normal,I,No,No,Yes,No,Yes,1,20,Yes,No,White
+20,No,12,1,Low,4,Normal,E,Yes,No,No,No,No,2,40,Yes,No,White
+20,No,0,0,High,9,Normal,E,No,No,Yes,Yes,Yes,3,60,No,No,Green
+20,Yes,2,0,Mid,2,Normal,I,No,No,Yes,Yes,No,3,60,Yes,No,Green
+20,No,5,1,Mid,3,Normal,E,No,Yes,Yes,No,No,0,0,Yes,No,Green
+20,No,15,0,High,7,Normal,I,No,No,Yes,No,No,2,40,No,No,White
+20,Yes,2,0,Mid,6,Normal,E,No,Yes,Yes,No,No,2,40,Yes,Yes,White
+20,No,21,2,Mid,7,Not interested ,I,No,Yes,No,No,Yes,3,60,Yes,Yes,Red
+20,Yes,2,0,Mid,9,Interested ,E,No,No,Yes,No,Yes,0,0,Yes,No,White
+20,Yes,9,2,Mid,10,Not Interested ,I,No,No,No,No,No,2,40,Yes,No,White
+20,No,7,0,Mid,4,Interested ,I,Yes,No,No,No,No,3,60,Yes,No,White
+20,No,8,1,High,6,Not interested ,E,No,No,No,Yes,No,3,60,Yes,No,White
+20,No,6,0,Low,9,Normal,E,No,No,No,No,No,1,20,Yes,No,White
+20,Yes,9,0,Mid,8,Not interested ,I,No,No,Yes,No,No,0,0,Yes,No,White
+20,Yes,2,0,Low,7,Normal,E,No,No,Yes,No,No,3,60,Yes,Yes,White
+20,Yes,6,2,Mid,8,Normal,E,No,No,Yes,No,No,2,40,Yes,No,Red
+20,Yes,9,0,Low,9,Normal,I,No,No,No,No,Yes,4,80,Yes,No,White
+20,No,5,0,Mid,7,Normal,E,No,Yes,No,No,Yes,4,80,Yes,Yes,Red
+21,Yes,3,0,Mid,7,Normal,I,No,Yes,Yes,Yes,Yes,4,80,No,Yes,White
+21,Yes,5,1,Mid,9,Not interested ,E,No,No,Yes,Yes,Yes,0,0,No,No,Green
+21,No,1,2,High,6,Not interested ,I,No,No,Yes,No,No,0,0,No,No,Green
+21,No,0,0,Mid,7,Not interested ,I,Yes,No,Yes,No,No,1,20,No,No,White
+21,Yes,21,1,Mid,10,Normal,I,No,No,No,No,No,2,40,Yes,No,White
+21,No,11,0,Mid,10,Normal,E,Yes,No,Yes,No,No,3,60,Yes,No,Red
+21,No,5,1,Low,10,Normal,E,Yes,No,No,No,No,5,100,Yes,No,Red
+21,No,5,0,Mid,6,Normal,I,No,No,Yes,No,No,0,0,Yes,Yes,White
+21,No,2,2,Mid,5,Normal,E,Yes,Yes,Yes,No,No,2,40,Yes,No,Red
+21,Yes,0,1,High,8,Normal,I,No,No,Yes,Yes,No,4,80,YEs,No,White
+21,Yes,8,0,Mid,9,Normal,E,Yes,No,Yes,No,No,2,40,Yes,No,Red
+21,Yes,8,3,Mid,9,Normal,I,No,No,Yes,No,No,0,0,Yes,No,White
+21,No,2,1,Mid,0,Normal,E,No,No,No,No,No,1,20,YEs,No,White
+21,Yes,1,0,Mid,4,Interested ,I,No,Yes,Yes,No,No,4,80,YEs,Yes,White
+21,No,0,2,High,9,Normal,I,No,No,No,No,Yes,3,60,Yes,No,White
+21,Yes,21,1,Low,2,Not interested ,E,No,No,No,No,No,6,120,Yes,No,Red
+21,Yes,0,0,Mid,3,Interested ,E,No,No,No,Yes,No,2,40,No,Yes,White
+21,No,2,1,Mid,7,Normal,I,No,No,No,Yes,No,0,0,Yes,No,Green
+21,Yes,23,1,Mid,6,Interested ,E,No,No,Yes,No,Yes,5,100,Yes,No,Red
+21,Yes,6,2,Mid,7,Normal,E,Yes,No,Yes,No,Yes,1,20,No,No,Red
+21,No,0,1,Mid,9,Not interested ,I,No,No,Yes,No,No,1,20,Yes,Yes,White 
+21,No,1,0,Mid,10,Normal,E,No,No,No,Yes,No,5,100,Yes,No,White
+21,Yes,6,0,Mid,4,Normal,I,No,No,No,No,No,1,20,Yes,No,White
+21,No,13,1,Mid,6,Normal,E,No,Yes,Yes,No,No,0,0,Yes,No,White
+21,No,8,0,Mid,9,Normal,I,No,Yes,Yes,Yes,No,0,0,Yes,No,Green
+21,Yes,7,2,Mid,8,Normal,I,No,Yes,Yes,No,No,1,20,Yes,No,White
+21,No,5,0,Mid,7,Normal,I,No,No,Yes,No,No,0,0,Yes,No,White
+21,Yes,1,1,Mid,8,Normal,E,No,No,No,No,Yes,0,0,Yes,No,White
+21,Yes,0,0,Mid,9,Normal,E,No,No,Yes,No,No,0,0,Yes,Yes,White
+21,No,5,0,High,7,Not interested ,I,No,No,No,No,No,0,0,Yes,No,White
+22,Yes,15,1,High,7,Not interested ,E,Yes,No,Yes,Yes,No,6,40,Yes,Yes,Red
+22,No,8,0,Mid,9,Normal,I,No,Yes,Yes,Yes,Yes,0,0,Yes,No,White
+22,No,21,3,Low,6,Normal,E,Yes,Yes,Yes,Yes,No,0,0,No,No,Red
+22,No,0,0,Low,7,Normal,I,Yes,Yes,Yes,No,No,1,20,No,No,White
+22,Yes,1,1,Mid,10,Not interested ,E,No,No,Yes,No,No,2,40,No,No,White
+22,No,0,0,Mid,10,Not interested ,I,Yes,No,No,No,Yes,2,40,No,No,White
+22,No,5,1,High,10,Normal,I,No,No,Yes,Yes,Yes,0,0,Yes,No,White
+22,Yes,7,0,Mid,6,Normal,E,Yes,No,No,Yes,No,0,0,Yes,No,White
+22,No,7,0,Low,5,Normal,E,No,No,No,Yes,No,1,20,Yes,No,White
+22,Yes,5,3,Mid,8,Interested ,I,No,No,No,No,No,2,40,Yes,No,White
+22,Yes,0,0,High,9,Interested ,E,No,No,No,No,No,3,60,Yes,No,White
+22,No,0,0,Low,9,Not Interested ,E,No,No,Yes,No,No,1,20,YEs,No,Green
+22,No,6,1,Mid,0,Not interested ,I,No,No,Yes,Yes,No,0,0,Yes,No,Green
+22,No,0,0,Mid,4,Not interested ,E,No,No,Yes,Yes,No,3,60,Yes,Yes,White
+22,Yes,1,1,Mid,9,Normal,I,No,No,No,No,Yes,3,60,YEs,No,White
+22,Yes,7,1,Mid,2,Normal,E,No,No,No,No,No,1,20,YEs,No,White
+22,Yes,0,0,Mid,3,Not interested ,I,Yes,No,Yes,No,No,2,40,Yes,Yes,White
+22,Yes,8,0,Low,7,Not interested ,I,No,No,Yes,No,No,0,0,Yes,No,White
+22,No,1,0,Mid,6,Normal,I,No,No,Yes,Yes,Yes,0,0,No,No,Green
+22,Yes,0,0,Low,7,Normal,E,No,No,Yes,No,No,1,20,Yes,No,White
+22,Yes,2,0,High,9,Normal,E,No,No,No,No,No,2,40,Yes,Yes,White
+22,No,1,1,Mid,10,Interested ,I,No,Yes,Yes,No,No,3,60,No,No,Green
+22,No,8,0,Mid,4,Normal,E,No,No,No,No,Yes,1,20,Yes,No,White
+22,Yes,6,0,High,6,Interested ,I,No,No,Yes,Yes,Yes,0,0,Yes,No,White
+22,No,3,1,Mid,9,Not interested ,E,No,No,Yes,No,No,4,80,Yes,No,White
+22,No,21,0,Mid,8,Normal,I,No,Yes,Yes,No,No,2,40,Yes,No,White
+22,No,0,0,Mid,7,Normal,E,No,No,Yes,No,No,4,80,Yes,No,White
+22,No,0,1,Mid,8,Normal,I,Yes,Yes,Yes,No,No,5,80,Yes,No,White
+22,Yes,6,0,Mid,9,Normal,I,No,No,No,Yes,No,6,120,Yes,Yes,White
+22,Yes,0,0,High,7,Normal,E,Yes,No,Yes,No,No,4,80,Yes,No,White
+23,Yes,8,0,Low,7,Normal,E,Yes,No,No,No,No,0,0,Yes,Yes,Red
+23,No,8,1,Mid,9,Normal,I,No,No,No,No,Yes,3,60,Yes,No,White
+23,Yes,9,0,Low,6,Interested ,E,Yes,No,No,No,No,5,100,Yes,No,White
+23,No,0,0,Mid,7,Not interested ,E,No,Yes,No,Yes,No,4,80,Yes,No,Green
+23,Yes,0,0,Low,10,Not interested ,I,Yes,No,Yes,No,No,1,20,No,No,White
+23,Yes,12,1,Mid,10,Normal,E,No,No,Yes,No,Yes,0,0,No,No,White
+23,No,16,0,Mid,10,Normal,I,No,Yes,Yes,No,No,2,40,No,No,Green
+23,Yes,12,0,Mid,6,Normal,E,No,Yes,No,No,No,6,120,No,No,White
+23,Yes,0,0,High,5,Normal,I,No,No,No,Yes,No,4,80,Yes,No,White
+23,No,15,1,Mid,8,Normal,I,No,No,Yes,No,Yes,1,20,Yes,No,White
+23,No,1,2,Mid,9,Normal,I,No,No,Yes,No,Yes,0,0,Yes,No,White
+23,Yes,5,0,Mid,9,Normal,E,No,No,Yes,No,No,4,80,Yes,No,White
+23,No,11,1,Low,0,Normal,E,No,No,Yes,No,No,4,80,Yes,No,White
+23,No,2,0,Mid,4,Not interested ,I,Yes,No,No,Yes,No,1,20,YEs,Yes,White
+23,Yes,1,0,Mid,9,Interested ,E,No,Yes,Yes,No,No,3,60,Yes,No,Green
+23,No,1,0,High,2,Not Interested ,I,No,No,No,No,No,5,100,Yes,No,White
+23,Yes,0,1,Mid,3,Interested ,E,No,No,Yes,No,No,2,40,YEs,Yes,White
+23,Yes,1,0,Mid,7,Not interested ,I,No,No,Yes,No,No,3,60,YEs,No,White
+23,No,3,0,Mid,6,Normal,E,No,Yes,Yes,Yes,Yes,5,100,Yes,No,White
+23,Yes,2,2,Mid,7,Not interested ,I,No,No,Yes,No,No,4,80,Yes,No,White
+23,No,2,1,High,9,Normal,I,No,Yes,Yes,No,No,1,20,No,Yes,White
+23,No,1,0,Low,10,Normal,E,No,No,No,No,No,3,60,Yes,No,White
+23,No,5,0,Mid,4,Normal,E,No,No,Yes,No,Yes,6,120,Yes,No,White
+23,Yes,6,3,Mid,6,Normal,I,No,No,No,Yes,No,6,120,No,No,White
+23,No,12,0,Mid,9,Normal,E,Yes,No,No,No,No,1,20,Yes,No,White
+23,No,14,0,Mid,8,Not interested ,E,No,No,No,No,No,1,20,Yes,No,White
+23,Yes,21,5,Mid,7,Not interested ,I,Yes,Yes,No,No,Yes,5,100,Yes,No,Red
+23,No,8,0,Mid,8,Not interested ,E,Yes,No,Yes,Yes,Yes,5,100,Yes,No,Red
+23,Yes,7,0,Mid,9,Normal,I,No,No,Yes,No,No,2,40,Yes,Yes,White
+23,Yes,15,0,Mid,7,Normal,E,Yes,Yes,Yes,No,No,0,0,Yes,No,White
+24,No,26,0,Mid,7,Normal,I,No,Yes,No,Yes,No,2,40,Yes,Yes,White
+24,No,8,0,Mid,9,Normal,I,Yes,No,No,No,No,2,40,Yes,No,White
+24,No,1,1,Mid,6,Normal,I,No,No,Yes,No,No,0,0,Yes,No,White
+24,Yes,0,0,Mid,7,Normal,E,No,No,Yes,No,No,0,0,Yes,No,White
+24,Yes,1,0,Mid,10,Normal,E,No,No,Yes,No,No,1,20,Yes,No,White
+24,Yes,0,0,High,10,Normal,I,No,No,Yes,No,Yes,2,40,Yes,No,White
+24,Yes,0,1,High,10,Normal,E,No,No,No,Yes,No,2,40,No,No,White
+24,No,3,0,Mid,6,Interested ,I,No,Yes,Yes,No,No,3,60,No,No,Green
+24,Yes,0,0,Low,5,Normal,E,No,No,No,No,No,0,0,No,No,White
+24,Yes,1,1,Low,8,Not interested ,I,No,No,Yes,Yes,Yes,1,20,No,No,White
+24,No,2,0,Mid,9,Interested ,E,Yes,No,Yes,No,No,4,20,Yes,No,White
+24,No,5,1,Mid,9,Normal,I,No,Yes,Yes,Yes,No,2,40,Yes,No,Green
+24,Yes,6,2,High,0,Interested ,I,No,No,Yes,No,No,3,60,Yes,No,White
+24,Yes,4,1,Mid,4,Normal,E,No,Yes,Yes,No,Yes,2,40,Yes,Yes,White
+24,No,8,0,Low,9,Not interested ,E,No,No,No,No,Yes,0,0,Yes,No,White
+24,No,4,0,Mid,2,Normal,I,No,No,Yes,Yes,No,1,20,YEs,No,White
+24,No,15,3,High,3,Normal,E,No,No,No,No,No,2,40,Yes,Yes,Red
+24,Yes,5,0,Low,7,Normal,E,No,No,No,No,No,3,60,Yes,No,White
+24,Yes,4,1,Mid,6,Normal,I,No,No,No,No,No,1,20,YEs,No,White
+24,Yes,0,0,Mid,7,Normal,E,No,Yes,No,No,No,0,0,YEs,No,Green
+24,No,8,0,Mid,9,Normal,I,No,No,Yes,No,No,2,40,Yes,Yes,White
+24,Yes,7,2,Mid,10,Normal,E,Yes,No,Yes,Yes,No,2,40,Yes,No,White
+24,No,2,0,Mid,4,Normal,I,No,Yes,Yes,Yes,Yes,1,20,No,No,White
+24,Yes,2,0,Low,6,Not interested ,I,Yes,Yes,No,No,No,3,60,Yes,No,White
+24,Yes,1,1,Mid,9,Not interested ,I,Yes,No,No,No,No,0,0,Yes,No,White
+24,No,7,0,Low,8,Normal,E,No,No,Yes,No,No,0,0,No,No,White
+24,Yes,5,3,High,7,Normal,E,Yes,No,Yes,No,Yes,4,80,Yes,No,Red
+24,Yes,0,0,Mid,8,Normal,I,No,No,Yes,No,No,2,40,Yes,No,White
+24,No,12,0,Mid,9,Not interested ,E,Yes,No,Yes,No,No,2,40,Yes,Yes,White
+24,No,13,3,High,7,Not interested ,I,No,No,No,No,No,0,0,Yes,No,White
+25,Yes,8,0,Mid,7,Normal,E,No,Yes,Yes,No,Yes,1,20,Yes,Yes,White
+25,No,7,0,Mid,9,Normal,I,No,No,No,No,Yes,4,80,Yes,No,White
+25,No,4,0,Mid,6,Normal,E,No,No,Yes,No,No,1,20,Yes,No,White
+25,Yes,10,3,Mid,7,Interested ,I,No,No,Yes,No,No,0,0,Yes,No,White
+25,No,0,0,Mid,10,Interested ,I,No,Yes,Yes,Yes,No,2,40,Yes,No,White
+25,Yes,6,0,High,10,Not Interested ,E,Yes,No,Yes,No,No,3,40,Yes,No,White
+25,Yes,5,0,Low,10,Not interested ,E,No,Yes,Yes,No,No,2,40,Yes,No,Green
+25,No,7,1,Mid,6,Not interested ,I,No,No,No,No,No,1,20,Yes,No,White
+25,Yes,12,3,Low,5,Normal,E,Yes,No,Yes,No,No,0,0,No,No,White
+25,No,5,0,Mid,8,Normal,E,No,No,No,No,Yes,1,20,No,No,White
+25,No,6,1,Low,9,Not interested ,I,No,No,No,No,No,2,40,No,No,White
+25,No,9,1,Mid,9,Not interested ,E,No,No,No,Yes,No,0,0,No,No,White
+25,Yes,8,0,Mid,0,Normal,I,Yes,Yes,No,Yes,No,1,20,Yes,No,White
+25,No,5,1,Mid,4,Normal,E,No,No,Yes,No,Yes,4,80,Yes,Yes,White
+25,No,12,0,High,9,Normal,I,Yes,No,Yes,No,No,5,200,Yes,No,White
+25,Yes,7,3,Mid,2,Interested ,I,No,Yes,Yes,No,No,0,0,Yes,No,White
+25,No,0,2,Mid,3,Normal,I,No,Yes,No,Yes,No,1,20,Yes,Yes,White
+25,Yes,1,1,Mid,7,Interested ,E,No,No,No,No,Yes,2,40,YEs,No,White
+25,Yes,4,0,Low,6,Not interested ,E,Yes,No,Yes,No,Yes,3,60,Yes,No,Red
+25,No,9,1,Mid,7,Normal,I,No,No,Yes,No,No,0,0,Yes,No,White
+25,No,12,1,Mid,9,Normal,E,No,No,Yes,No,No,1,20,YEs,Yes,White
+25,No,0,0,High,10,Normal,I,No,No,Yes,No,No,6,120,YEs,No,White
+25,Yes,9,2,Mid,4,Normal,E,No,No,No,No,No,2,40,Yes,No,White
+25,Yes,1,1,Mid,6,Normal,I,No,Yes,Yes,No,No,2,40,Yes,No,Green
+25,Yes,2,1,Mid,9,Normal,E,No,No,No,No,No,1,20,No,No,White
+25,Yes,1,0,Mid,8,Normal,I,No,No,Yes,Yes,No,2,40,Yes,No,White
+25,No,2,1,High,7,Interested ,I,Yes,No,Yes,Yes,Yes,0,0,Yes,No,Red
+25,Yes,1,1,Low,8,Not interested ,E,No,Yes,Yes,No,No,1,20,No,No,Green
+25,Yes,0,1,Mid,9,Not interested ,E,No,No,Yes,No,No,2,40,Yes,Yes,White
+25,No,1,0,Mid,7,Normal,I,Yes,Yes,Yes,No,No,4,80,Yes,No,White
+26,No,21,4,Mid,7,Normal,E,No,No,No,Yes,Yes,0,0,Yes,Yes,Red
+26,Yes,2,0,Mid,9,Normal,E,No,No,Yes,No,No,0,0,Yes,No,White
+26,No,1,1,Mid,6,Normal,I,No,No,No,No,No,1,20,Yes,No,White
+26,No,0,0,Mid,7,Normal,E,Yes,No,No,No,No,2,40,Yes,No,White
+26,No,21,4,Mid,10,Normal,I,No,No,No,No,Yes,3,60,Yes,No,Red
+26,No,1,0,Mid,10,Normal,E,Yes,Yes,No,No,Yes,0,0,Yes,No,Red
+26,Yes,3,1,Mid,10,Normal,I,No,No,Yes,No,No,1,20,Yes,No,White
+26,Yes,14,1,Mid,6,Not interested ,I,No,No,Yes,No,No,2,40,Yes,No,White
+26,Yes,8,6,Mid,5,Interested ,I,No,Yes,Yes,No,No,2,40,Yes,No,Red
+26,No,15,1,Mid,8,Not Interested ,E,Yes,Yes,No,Yes,No,3,60,Yes,No,White
+26,Yes,16,2,Mid,9,Interested ,E,No,No,No,Yes,No,0,0,Yes,No,White
+26,No,1,0,High,9,Not interested ,I,No,No,Yes,No,No,1,20,Yes,No,White
+26,Yes,4,1,High,0,Normal,E,No,No,Yes,No,No,2,40,Yes,No,White
+26,Yes,5,4,Mid,4,Not interested ,I,No,No,Yes,No,Yes,3,60,No,Yes,Green
+26,No,1,1,Low,9,Normal,E,No,No,Yes,Yes,No,3,60,No,No,White
+26,Yes,6,1,Low,2,Normal,I,No,No,No,No,No,1,20,No,No,White
+26,Yes,7,7,Mid,3,Normal,E,No,Yes,Yes,No,No,0,0,No,Yes,Red
+26,No,9,3,Mid,7,Normal,I,Yes,No,No,No,Yes,2,40,Yes,No,White
+26,No,8,8,High,6,Normal,I,No,No,Yes,No,No,2,40,Yes,No,Red
+26,Yes,0,0,Mid,7,Not interested ,E,No,No,Yes,No,No,4,80,Yes,No,White
+26,No,15,1,Low,9,Not interested ,E,Yes,Yes,Yes,No,No,1,20,Yes,Yes,Red
+26,No,7,4,Mid,10,Not interested ,I,No,No,Yes,No,Yes,1,20,Yes,No,White
+26,Yes,6,1,High,4,Normal,E,No,Yes,Yes,No,Yes,3,60,Yes,No,White
+26,No,1,1,Low,6,Normal,E,No,No,No,Yes,No,2,40,Yes,No,Green
+26,Yes,2,1,Mid,9,Normal,I,Yes,No,Yes,Yes,No,1,20,Yes,No,White
+26,Yes,13,3,Mid,8,Normal,E,No,No,No,No,No,2,40,Yes,No,White
+26,No,7,0,Mid,7,Normal,I,Yes,Yes,No,No,No,2,40,Yes,No,White
+26,Yes,1,0,Mid,8,Normal,E,No,No,No,No,No,1,20,Yes,No,White
+26,No,10,0,Mid,9,Normal,I,No,No,No,Yes,No,0,0,Yes,Yes,White
+26,No,10,3,Low,7,Normal,I,No,Yes,Yes,No,No,1,20,Yes,No,White
+27,No,10,0,Mid,7,Normal,I,Yes,No,Yes,No,Yes,4,80,Yes,Yes,Red
+27,Yes,21,1,Low,9,Interested ,E,No,No,Yes,No,No,5,100,Yes,No,White
+27,No,26,2,High,6,Normal,E,No,Yes,No,No,No,0,0,Yes,No,Red
+27,No,1,1,Mid,7,Not interested ,I,No,No,No,No,No,1,20,Yes,No,White
+27,Yes,0,2,Mid,10,Interested ,E,No,Yes,Yes,No,Yes,2,40,Yes,No,White
+27,No,12,1,High,10,Normal,I,No,No,Yes,No,No,3,60,No,No,White
+27,Yes,12,1,Mid,10,Interested ,E,No,No,Yes,No,No,0,0,No,No,White
+27,Yes,5,0,Mid,6,Normal,I,No,No,Yes,Yes,No,1,20,No,No,Green
+27,No,15,8,Mid,5,Not interested ,E,Yes,No,No,Yes,Yes,6,120,No,No,Red
+27,No,11,0,Mid,8,Normal,I,No,No,Yes,No,Yes,2,40,Yes,No,White
+27,No,5,1,Mid,9,Normal,I,No,No,No,No,No,2,40,Yes,No,White
+27,Yes,21,5,High,9,Normal,E,Yes,Yes,Yes,No,No,1,20,Yes,No,Red
+27,Yes,8,3,Low,0,Normal,E,No,No,Yes,Yes,No,2,40,Yes,No,White
+27,Yes,22,1,Mid,4,Normal,I,No,No,Yes,No,No,0,0,Yes,Yes,White
+27,Yes,21,1,Low,9,Normal,E,No,No,Yes,No,No,1,20,Yes,No,White
+27,No,5,4,Mid,2,Normal,E,Yes,Yes,Yes,No,No,2,40,Yes,No,White
+27,Yes,21,1,Low,3,Normal,I,No,No,No,No,No,4,80,Yes,Yes,White
+27,Yes,20,1,Mid,7,Not interested ,E,Yes,Yes,Yes,No,Yes,0,0,Yes,No,Red
+27,No,14,2,Mid,6,Not interested ,I,No,No,No,No,No,0,0,Yes,No,White
+27,No,0,1,Mid,7,Normal,E,No,No,No,No,No,1,20,Yes,No,White
+27,Yes,1,1,High,9,Normal,I,No,No,No,No,No,2,40,Yes,Yes,White
+27,No,0,4,Mid,10,Normal,I,Yes,Yes,No,Yes,Yes,3,60,Yes,No,Red
+27,No,10,3,Mid,4,Not interested ,I,No,No,Yes,Yes,No,0,0,Yes,No,Green
+27,No,0,0,Mid,6,Not interested ,E,No,No,Yes,No,No,1,20,Yes,No,Green
+27,No,1,1,Low,9,Normal,E,No,Yes,Yes,No,No,2,40,Yes,No,Green
+27,Yes,1,6,Mid,8,Normal,I,No,No,No,No,Yes,2,40,Yes,No,Red
+27,Yes,1,0,Mid,7,Normal,E,No,No,No,No,Yes,3,60,Yes,No,White
+27,Yes,21,6,High,8,Interested ,I,No,Yes,Yes,No,No,0,0,No,No,Green
+27,No,5,1,Mid,9,Interested ,E,No,No,Yes,No,No,1,20,No,Yes,White
+27,Yes,14,1,Mid,7,Not Interested ,I,Yes,Yes,Yes,No,No,2,40,No,No,White
+28,No,1,0,Mid,7,Not interested ,E,No,No,Yes,No,No,3,60,No,Yes,White
+28,Yes,6,2,Mid,9,Not interested ,I,No,No,No,No,No,3,60,Yes,No,White
+28,Yes,21,1,High,6,Normal,I,Yes,No,Yes,Yes,No,1,20,Yes,No,White
+28,No,13,4,Low,7,Normal,E,No,No,No,Yes,No,0,0,Yes,No,White
+28,Yes,12,6,Mid,10,Not interested ,E,No,No,Yes,No,Yes,2,40,Yes,No,Red
+28,Yes,0,1,Mid,10,Not interested ,I,No,No,Yes,Yes,No,2,40,Yes,No,Green
+28,No,1,1,Mid,10,Normal,E,Yes,Yes,Yes,No,No,4,80,Yes,No,White
+28,No,5,2,Mid,6,Normal,E,No,No,Yes,Yes,No,1,20,Yes,No,White
+28,Yes,12,1,Mid,5,Normal,I,Yes,No,Yes,No,Yes,1,20,Yes,No,Red
+28,No,15,1,Mid,8,Interested ,E,No,No,No,Yes,No,3,60,Yes,No,White
+28,No,15,5,Mid,9,Normal,I,No,Yes,Yes,No,No,2,40,Yes,No,White
+28,Yes,21,13,Mid,9,Interested ,E,No,No,No,No,No,1,20,Yes,No,Red
+28,No,0,0,Mid,0,Not interested ,I,Yes,Yes,No,No,Yes,2,40,Yes,No,Red
+28,Yes,0,0,Mid,4,Normal,I,No,No,No,No,Yes,2,40,Yes,Yes,Red
+28,Yes,1,0,Mid,9,Normal,I,No,No,No,No,No,1,20,Yes,No,White
+28,No,14,6,Mid,2,Normal,E,No,No,Yes,No,No,0,0,Yes,No,White
+28,Yes,1,1,Mid,3,Normal,E,No,Yes,Yes,No,No,1,20,Yes,Yes,White
+28,No,4,1,High,7,Normal,I,No,No,Yes,Yes,No,4,80,Yes,No,Green
+28,No,17,5,High,6,Normal,E,No,No,No,Yes,No,5,100,Yes,No,Red
+28,No,18,0,Mid,7,Normal,I,No,Yes,No,No,No,0,0,No,No,Green
+28,Yes,1,4,Low,9,Interested ,E,Yes,No,Yes,No,No,1,20,No,Yes,Red
+28,No,12,1,Low,10,Not interested ,I,No,No,Yes,No,Yes,2,40,No,No,Green
+28,No,19,2,Mid,4,Not interested ,E,No,Yes,Yes,No,No,3,60,No,No,Green
+28,Yes,16,6,Mid,6,Normal,I,Yes,No,Yes,No,No,0,0,Yes,No,White
+28,No,3,1,High,9,Normal,I,No,Yes,No,Yes,No,1,20,Yes,No,Green
+28,Yes,21,0,Mid,8,Normal,E,No,No,Yes,No,Yes,6,120,Yes,No,Red
+28,Yes,14,1,Low,7,Normal,E,No,No,No,No,No,2,40,Yes,No,White
+28,No,14,6,Mid,8,Normal,I,Yes,No,Yes,No,No,2,40,Yes,No,Red
+28,No,0,1,High,9,Normal,E,No,No,Yes,No,No,1,20,Yes,Yes,White
+28,No,1,1,Low,7,Normal,E,Yes,No,Yes,Yes,Yes,2,40,Yes,No,Red
+29,Yes,2,4,Mid,7,Normal,I,No,No,Yes,Yes,Yes,0,0,Yes,Yes,Red
+29,Yes,0,1,Mid,9,Not interested ,E,No,Yes,Yes,No,No,1,20,Yes,No,Green
+29,Yes,12,0,Mid,6,Interested ,I,No,No,No,No,No,2,40,Yes,No,White
+29,Yes,1,1,Mid,7,Not Interested ,E,Yes,No,Yes,No,No,4,80,Yes,No,White
+29,No,12,2,Mid,10,Interested ,I,No,No,No,No,No,0,0,Yes,No,White
+29,Yes,0,1,Low,10,Not interested ,I,No,Yes,No,No,No,0,0,Yes,No,Green
+29,Yes,15,6,Mid,10,Normal,I,No,No,No,No,No,1,20,Yes,No,White
+29,No,10,1,Low,6,Not interested ,E,No,Yes,No,Yes,No,2,40,Yes,No,Green
+29,No,5,1,High,5,Normal,E,No,No,Yes,No,Yes,3,60,Yes,No,White
+29,Yes,1,4,Mid,8,Normal,I,No,No,Yes,Yes,No,0,0,Yes,No,White
+29,No,2,2,Mid,9,Normal,E,No,No,Yes,No,No,1,20,Yes,No,White
+29,No,3,1,High,9,Normal,I,Yes,Yes,No,No,No,2,40,No,No,White
+29,No,1,2,Mid,0,Normal,E,No,No,No,No,Yes,2,40,No,No,White
+29,No,10,4,Mid,4,Not interested ,I,No,No,Yes,No,No,3,60,No,Yes,White
+29,Yes,0,0,Mid,9,Not interested ,E,Yes,Yes,Yes,No,No,0,0,No,No,White
+29,Yes,10,6,Mid,2,Not interested ,I,No,No,Yes,No,No,1,20,Yes,No,White
+29,Yes,2,1,Mid,3,Normal,I,No,No,Yes,No,Yes,2,40,Yes,Yes,Red
+29,No,1,1,High,7,Normal,E,No,Yes,No,No,Yes,3,60,Yes,No,White
+29,Yes,4,5,Low,6,Normal,E,Yes,No,Yes,Yes,No,3,60,Yes,No,White
+29,No,15,2,Mid,7,Normal,I,No,Yes,No,Yes,No,1,20,Yes,No,Green
+29,Yes,3,1,Low,9,Normal,E,Yes,No,Yes,No,No,0,0,Yes,Yes,White
+29,Yes,1,0,Mid,10,Normal,E,No,No,Yes,No,No,2,40,Yes,No,White
+29,No,7,6,Low,4,Normal,I,No,No,Yes,No,No,2,40,Yes,No,White
+29,Yes,3,1,Mid,6,Normal,E,No,No,Yes,No,No,4,80,Yes,No,White
+29,Yes,1,1,Mid,9,Normal,I,Yes,No,No,No,No,1,20,Yes,No,White
+29,No,8,1,Mid,8,Interested ,E,No,No,Yes,Yes,Yes,1,20,Yes,No,White
+29,No,19,3,High,7,Normal,I,No,Yes,Yes,No,No,3,60,Yes,No,Green
+29,Yes,23,12,Mid,8,Not interested ,I,No,No,Yes,No,No,2,40,Yes,No,Red
+29,No,16,6,Mid,9,Interested ,I,No,No,Yes,No,No,1,20,Yes,Yes,Red
+29,No,3,1,Mid,7,Normal,E,No,No,Yes,No,Yes,2,40,Yes,No,White
+30,Yes,16,0,Low,7,Interested ,E,No,Yes,No,Yes,No,2,40,Yes,Yes,White
+30,No,2,0,Mid,9,Normal,I,No,No,Yes,Yes,No,1,20,Yes,No,White
+30,Yes,12,9,Mid,6,Not interested ,E,Yes,Yes,No,No,No,1,20,Yes,No,Red
+30,Yes,7,1,High,7,Normal,I,No,No,No,No,Yes,2,40,No,No,Green
+30,No,15,10,Mid,10,Normal,E,No,No,No,No,Yes,3,60,No,No,Red
+30,Yes,6,1,Mid,10,Normal,I,Yes,No,No,No,No,3,60,No,No,White
+30,No,1,0,Mid,10,Normal,E,No,Yes,Yes,No,No,1,20,No,No,Green
+30,No,21,1,Mid,6,Normal,I,No,No,Yes,No,No,0,0,Yes,No,Green
+30,No,1,2,High,5,Normal,I,No,No,Yes,No,No,2,40,Yes,No,White
+30,Yes,13,8,Low,8,Normal,E,Yes,Yes,No,Yes,No,2,40,Yes,No,White
+30,No,2,6,Mid,9,Normal,E,No,No,No,No,No,4,80,Yes,No,White
+30,No,1,1,Mid,9,Not interested ,I,Yes,No,Yes,No,No,1,20,Yes,No,White
+30,Yes,1,3,Mid,0,Not interested ,E,No,Yes,Yes,No,Yes,1,20,Yes,No,Green
+30,No,23,1,Mid,4,Normal,E,No,No,Yes,No,No,3,60,Yes,Yes,White
+30,Yes,2,1,Mid,9,Normal,I,No,Yes,Yes,Yes,No,2,40,Yes,No,Green
+30,Yes,4,1,Mid,2,Normal,E,Yes,No,No,Yes,No,1,20,Yes,No,White
+30,No,12,4,Mid,3,Not interested ,E,No,No,Yes,No,Yes,2,40,No,Yes,White
+30,No,2,1,Mid,7,Not interested ,I,No,No,No,No,No,2,40,No,No,White
+30,No,11,6,Mid,6,Normal,E,No,No,Yes,No,No,1,20,No,No,White
+30,Yes,1,6,Mid,7,Normal,E,No,No,Yes,No,No,1,20,No,No,White
+30,Yes,21,1,Mid,9,Normal,E,No,No,Yes,No,Yes,2,40,Yes,Yes,White
+30,Yes,0,2,Mid,10,Interested ,I,No,Yes,Yes,No,Yes,3,60,Yes,No,Green
+30,Yes,2,1,Mid,5,Interested ,E,No,No,Yes,No,No,3,60,Yes,No,White
+30,No,2,6,High,6,Not Interested ,I,Yes,No,No,Yes,No,1,20,Yes,No,White
+30,Yes,20,3,High,8,Not interested ,E,No,No,Yes,No,No,0,0,Yes,No,White
+30,Yes,21,1,Mid,7,Not interested ,I,No,Yes,No,No,No,2,40,Yes,No,Green
+30,No,0,0,Low,9,Normal,E,Yes,No,No,No,No,2,40,Yes,No,Green
+30,No,2,0,Low,10,Normal,E,No,Yes,No,No,No,4,80,Yes,No,Green
+30,Yes,0,1,Mid,10,Not interested ,E,No,No,No,Yes,No,1,20,Yes,Yes,White
+30,No,2,4,Mid,10,Not interested ,E,No,No,Yes,Yes,Yes,1,20,Yes,No,White
