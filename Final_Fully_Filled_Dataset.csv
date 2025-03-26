@@ -587,3 +587,5 @@ Girl_age,Relationship_Status,Past_RelationShips,Body_Count,Easy_Moveon,Looks,Res
 30,No,2,0,Low,10,Normal,E,No,Yes,No,No,No,4,80,Yes,No,Green
 30,Yes,0,1,Mid,10,Not interested ,E,No,No,No,Yes,No,1,20,Yes,Yes,White
 30,No,2,4,Mid,10,Not interested ,E,No,No,Yes,Yes,Yes,1,20,Yes,No,White
+29,Yes,23,12,Mid,8,Not interested ,I,No,No,Yes,No,No,2,40,Yes,No,Red
+29,No,16,6,Mid,9,Interested ,I,No,No,Yes,No,No,1,20,Yes,Yes,Red
