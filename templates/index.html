@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Red Flag Prediction</title>
+</head>
+<body>
+    <h1>Red Flag Prediction</h1>
+    <form action="/predict" method="post">
+        <label for="Girl_Age">Girl Age:</label>
+        <input type="number" name="Girl_Age" required><br>
+
+        <label for="Relationship_Status">Relationship Status:</label>
+        <select name="Relationship_Status">
+            <option value="Single">Single</option>
+            <option value="Committed">Committed</option>
+        </select><br>
+
+        <label for="Past_RelationShips">Past Relationships:</label>
+        <input type="number" name="Past_RelationShips" required><br>
+
+        <label for="Body_Count">Body Count:</label>
+        <input type="number" name="Body_Count" required><br>
+
+        <label for="Easy_Moveon">Easy Move On:</label>
+        <select name="Easy_Moveon">
+            <option value="Yes">Yes</option>
+            <option value="No">No</option>
+        </select><br>
+
+        <label for="Looks">Looks (1-10):</label>
+        <input type="number" name="Looks" min="1" max="10" required><br>
+
+        <label for="Response">Response:</label>
+        <select name="Response">
+            <option value="Positive">Positive</option>
+            <option value="Negative">Negative</option>
+        </select><br>
+
+        <label for="Introvert_Extrovert">Introvert/Extrovert:</label>
+        <select name="Introvert_Extrovert">
+            <option value="Introvert">Introvert</option>
+            <option value="Extrovert">Extrovert</option>
+        </select><br>
+
+        <label for="Superiority_Complex">Superiority Complex:</label>
+        <select name="Superiority_Complex">
+            <option value="Yes">Yes</option>
+            <option value="No">No</option>
+        </select><br>
+
+        <label for="Mistake_Acceptance">Mistake Acceptance:</label>
+        <select name="Mistake_Acceptance">
+            <option value="Yes">Yes</option>
+            <option value="No">No</option>
+        </select><br>
+
+        <label for="Open_to_Phone">Open to Phone:</label>
+        <select name="Open_to_Phone">
+            <option value="Yes">Yes</option>
+            <option value="No">No</option>
+        </select><br>
+
+        <label for="Pays_Bill">Pays Bill:</label>
+        <select name="Pays_Bill">
+            <option value="Yes">Yes</option>
+            <option value="No">No</option>
+        </select><br>
+
+        <label for="High_Maintenance">High Maintenance:</label>
+        <select name="High_Maintenance">
+            <option value="Yes">Yes</option>
+            <option value="No">No</option>
+        </select><br>
+
+        <label for="Male_Bestfriends">Male Best Friends (count):</label>
+        <input type="number" name="Male_Bestfriends" required><br>
+
+        <label for="Time_with_male_friends">Time with Male Friends (in min):</label>
+        <input type="number" name="Time_with_male_friends" required><br>
+
+        <label for="Feminist">Feminist:</label>
+        <select name="Feminist">
+            <option value="Yes">Yes</option>
+            <option value="No">No</option>
+        </select><br>
+
+        <label for="GenZ_prespective">GenZ Perspective:</label>
+        <select name="GenZ_prespective">
+            <option value="Yes">Yes</option>
+            <option value="No">No</option>
+        </select><br>
+
+        <button type="submit">Predict</button>
+    </form>
+
+    {% if prediction %}
+        <h2>{{ prediction }}</h2>
+    {% endif %}
+    {% if error %}
+        <h2 style="color: red;">{{ error }}</h2>
+    {% endif %}
+</body>
+</html>
