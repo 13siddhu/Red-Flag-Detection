@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Prediction Result</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            padding: 50px;
+        }
+        .result {
+            font-size: 24px;
+            font-weight: bold;
+            margin: 20px 0;
+        }
+        .white { color: blue; }
+        .red { color: red; }
+        .green { color: green; }
+    </style>
+</head>
+<body>
+    <h1>Red Flag Prediction Result</h1>
+    <div class="result {{ prediction }}">
+        Prediction: {{ prediction }} Flag
+    </div>
+    <a href="/">Back to Prediction</a>
+</body>
+</html>
