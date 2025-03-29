@@ -3,106 +3,31 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Red Flag Prediction</title>
+    <title>Red Flag Predictor</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+    <script src="{{ url_for('static', filename='script.js') }}" defer></script>
 </head>
 <body>
-    <h2>Enter Details</h2>
-    <form method="POST">
-        <label>Girl Age:</label>
-        <input type="number" name="Girl_age" required><br>
 
-        <label>Relationship Status:</label>
-        <select name="Relationship_Status">
-            <option value="Yes">Yes</option>
-            <option value="No">No</option>
-        </select><br>
+    <nav>
+        <div class="logo">🚩 Red Flag Predictor</div>
+        <ul>
+            <li><a href="{{ url_for('home') }}">Home</a></li>
+            <li><a href="{{ url_for('predict') }}">Predict</a></li>
+            <li><a href="{{ url_for('about') }}">About Us</a></li>
+        </ul>
+    </nav>
 
-        <label>Past Relationships:</label>
-        <input type="number" name="Past_RelationShips" required><br>
+    <section id="home" class="section">
+        <h1>Welcome to the Red Flag Predictor 🚨</h1>
+        <p>Ever wondered if your girl is a **walking red flag**? Well, we got you covered! Just enter the details and let our AI **expose the truth!** 😏</p>
+        <p>This predictor is **100% fun-based** and not meant to be taken seriously. Enjoy the ride! 🚀</p>
+        <a href="{{ url_for('predict') }}" class="btn">Start Prediction</a>
+    </section>
 
-        <label>Body Count:</label>
-        <input type="number" name="Body_Count" required><br>
+    <footer>
+        <p>⚠️ This project is for fun and entertainment purposes only! Don't take it seriously. 😆</p>
+    </footer>
 
-        <label>Easy Move-on:</label>
-        <select name="Easy_Moveon">
-            <option value="Low">Low</option>
-            <option value="Mid">Mid</option>
-            <option value="High">High</option>
-        </select><br>
-
-        <label>Looks (1-10):</label>
-        <input type="number" name="Looks" min="1" max="10" required><br>
-
-        <label>Response:</label>
-        <select name="Response">
-            <option value="normal">Normal</option>
-            <option value="not interested">Not Interested</option>
-            <option value="interested">Interested</option>
-        </select><br>
-
-        <label>Introvert/Extrovert:</label>
-        <select name="Introvert/Extrovert">
-            <option value="I">Introvert</option>
-            <option value="E">Extrovert</option>
-        </select><br>
-
-        <label>Superiority Complex:</label>
-        <select name="Superiority_Complex">
-            <option value="yes">Yes</option>
-            <option value="no">No</option>
-        </select><br>
-
-        <label>Mistake Acceptance:</label>
-        <select name="Mistake_Acceptance">
-            <option value="Yes">Yes</option>
-            <option value="No">No</option>
-        </select><br>
-
-        <label>Open to Phone:</label>
-        <select name="Open_to_Phone">
-            <option value="Yes">Yes</option>
-            <option value="No">No</option>
-        </select><br>
-
-        <label>Pays Bill:</label>
-        <select name="Pays_Bill">
-            <option value="Yes">Yes</option>
-            <option value="No">No</option>
-        </select><br>
-
-        <label>High Maintenance:</label>
-        <select name="High_Maintenance">
-            <option value="Yes">Yes</option>
-            <option value="No">No</option>
-        </select><br>
-
-        <label>Male Best Friends:</label>
-        <input type="number" name="Male_Bestfriends" required><br>
-
-        <label>Time with Male Friends (in minutes):</label>
-        <input type="number" name="Time_with_male_friends(In min)" required><br>
-
-        <label>Feminist:</label>
-        <select name="Feminist">
-            <option value="yes">Yes</option>
-            <option value="no">No</option>
-        </select><br>
-
-        <label>GenZ Perspective:</label>
-        <select name="GenZ_prespective">
-            <option value="Yes">Yes</option>
-            <option value="No">No</option>
-        </select><br>
-
-        <button type="submit">Predict</button>
-    </form>
-
-    {% if prediction %}
-        <h3>Prediction: {{ prediction }}</h3>
-    {% endif %}
-    
-    {% if error %}
-        <h3 style="color:red;">Error: {{ error }}</h3>
-    {% endif %}
 </body>
 </html>
