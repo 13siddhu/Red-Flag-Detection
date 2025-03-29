@@ -1,157 +1,108 @@
-<!-- index.html -->
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Red Flag Prediction</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            max-width: 600px;
-            margin: 0 auto;
-            padding: 20px;
-        }
-        .form-group {
-            margin-bottom: 15px;
-        }
-        label {
-            display: block;
-            margin-bottom: 5px;
-        }
-        input, select {
-            width: 100%;
-            padding: 8px;
-            box-sizing: border-box;
-        }
-        button {
-            width: 100%;
-            padding: 10px;
-            background-color: #4CAF50;
-            color: white;
-            border: none;
-            cursor: pointer;
-        }
-    </style>
 </head>
 <body>
-    <h1>Red Flag Prediction</h1>
+    <h2>Enter Details</h2>
     <form method="POST">
-        <div class="form-group">
-            <label>Girl's Age:</label>
-            <input type="number" name="Girl_age" required>
-        </div>
+        <label>Girl Age:</label>
+        <input type="number" name="Girl_age" required><br>
 
-        <div class="form-group">
-            <label>Relationship Status:</label>
-            <select name="Relationship_Status">
-                <option value="Yes">Yes</option>
-                <option value="No">No</option>
-            </select>
-        </div>
+        <label>Relationship Status:</label>
+        <select name="Relationship_Status">
+            <option value="Yes">Yes</option>
+            <option value="No">No</option>
+        </select><br>
 
-        <div class="form-group">
-            <label>Easy Moveon:</label>
-            <select name="Easy_Moveon">
-                <option value="Mid">Mid</option>
-                <option value="Low">Low</option>
-                <option value="High">High</option>
-            </select>
-        </div>
+        <label>Past Relationships:</label>
+        <input type="number" name="Past_RelationShips" required><br>
 
-        <div class="form-group">
-            <label>Response:</label>
-            <select name="Response">
-                <option value="normal">Normal</option>
-                <option value="not interested">Not Interested</option>
-                <option value="interested">Interested</option>
-            </select>
-        </div>
+        <label>Body Count:</label>
+        <input type="number" name="Body_Count" required><br>
 
-        <div class="form-group">
-            <label>Introvert/Extrovert:</label>
-            <select name="Introvert/Extrovert">
-                <option value="E">Extrovert</option>
-                <option value="I">Introvert</option>
-            </select>
-        </div>
+        <label>Easy Move-on:</label>
+        <select name="Easy_Moveon">
+            <option value="Low">Low</option>
+            <option value="Mid">Mid</option>
+            <option value="High">High</option>
+        </select><br>
 
-        <div class="form-group">
-            <label>Superiority Complex:</label>
-            <select name="Superiority_Complex">
-                <option value="no">No</option>
-                <option value="yes">Yes</option>
-            </select>
-        </div>
+        <label>Looks (1-10):</label>
+        <input type="number" name="Looks" min="1" max="10" required><br>
 
-        <div class="form-group">
-            <label>Mistake Acceptance:</label>
-            <select name="Mistake_Acceptance">
-                <option value="No">No</option>
-                <option value="Yes">Yes</option>
-            </select>
-        </div>
+        <label>Response:</label>
+        <select name="Response">
+            <option value="normal">Normal</option>
+            <option value="not interested">Not Interested</option>
+            <option value="interested">Interested</option>
+        </select><br>
 
-        <div class="form-group">
-            <label>Open to Phone:</label>
-            <select name="Open_to_Phone">
-                <option value="Yes">Yes</option>
-                <option value="No">No</option>
-            </select>
-        </div>
+        <label>Introvert/Extrovert:</label>
+        <select name="Introvert/Extrovert">
+            <option value="I">Introvert</option>
+            <option value="E">Extrovert</option>
+        </select><br>
 
-        <div class="form-group">
-            <label>Pays Bill:</label>
-            <select name="Pays_Bill">
-                <option value="No">No</option>
-                <option value="Yes">Yes</option>
-            </select>
-        </div>
+        <label>Superiority Complex:</label>
+        <select name="Superiority_Complex">
+            <option value="yes">Yes</option>
+            <option value="no">No</option>
+        </select><br>
 
-        <div class="form-group">
-            <label>High Maintenance:</label>
-            <select name="High_Maintenance">
-                <option value="No">No</option>
-                <option value="Yes">Yes</option>
-            </select>
-        </div>
+        <label>Mistake Acceptance:</label>
+        <select name="Mistake_Acceptance">
+            <option value="Yes">Yes</option>
+            <option value="No">No</option>
+        </select><br>
 
-        <div class="form-group">
-            <label>Feminist:</label>
-            <select name="Feminist">
-                <option value="yes">Yes</option>
-                <option value="no">No</option>
-            </select>
-        </div>
+        <label>Open to Phone:</label>
+        <select name="Open_to_Phone">
+            <option value="Yes">Yes</option>
+            <option value="No">No</option>
+        </select><br>
 
-        <div class="form-group">
-            <label>Gen Z Perspective:</label>
-            <select name="GenZ_prespective">
-                <option value="No">No</option>
-                <option value="Yes">Yes</option>
-            </select>
-        </div>
+        <label>Pays Bill:</label>
+        <select name="Pays_Bill">
+            <option value="Yes">Yes</option>
+            <option value="No">No</option>
+        </select><br>
 
-        <div class="form-group">
-            <label>Past Relationships:</label>
-            <input type="number" name="Past_RelationShips" required>
-        </div>
+        <label>High Maintenance:</label>
+        <select name="High_Maintenance">
+            <option value="Yes">Yes</option>
+            <option value="No">No</option>
+        </select><br>
 
-        <div class="form-group">
-            <label>Body Count:</label>
-            <input type="number" name="Body_Count" required>
-        </div>
+        <label>Male Best Friends:</label>
+        <input type="number" name="Male_Bestfriends" required><br>
 
-        <div class="form-group">
-            <label>Male Best Friends:</label>
-            <input type="number" name="Male_Bestfriends" required>
-        </div>
+        <label>Time with Male Friends (in minutes):</label>
+        <input type="number" name="Time_with_male_friends(In min)" required><br>
 
-        <div class="form-group">
-            <label>Time with Male Friends (in minutes):</label>
-            <input type="number" name="Time_with_male_friends" required>
-        </div>
+        <label>Feminist:</label>
+        <select name="Feminist">
+            <option value="yes">Yes</option>
+            <option value="no">No</option>
+        </select><br>
 
-        <button type="submit">Predict Red Flag</button>
+        <label>GenZ Perspective:</label>
+        <select name="GenZ_prespective">
+            <option value="Yes">Yes</option>
+            <option value="No">No</option>
+        </select><br>
+
+        <button type="submit">Predict</button>
     </form>
+
+    {% if prediction %}
+        <h3>Prediction: {{ prediction }}</h3>
+    {% endif %}
+    
+    {% if error %}
+        <h3 style="color:red;">Error: {{ error }}</h3>
+    {% endif %}
 </body>
 </html>
