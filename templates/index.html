@@ -8,26 +8,22 @@
     <script src="{{ url_for('static', filename='script.js') }}" defer></script>
 </head>
 <body>
-
     <nav>
-        <div class="logo">🚩 Red Flag Predictor</div>
+        <div class="logo">Red Flag Predictor</div>
         <ul>
             <li><a href="{{ url_for('home') }}">Home</a></li>
             <li><a href="{{ url_for('predict') }}">Predict</a></li>
             <li><a href="{{ url_for('about') }}">About Us</a></li>
         </ul>
     </nav>
-
     <section id="home" class="section">
         <h1>Welcome to the Red Flag Predictor 🚨</h1>
-        <p>Ever wondered if your girl is a **walking red flag**? Well, we got you covered! Just enter the details and let our AI **expose the truth!** 😏</p>
-        <p>This predictor is **100% fun-based** and not meant to be taken seriously. Enjoy the ride! 🚀</p>
+        <p>Ever wondered if your girl is a walking red flag? Well, we got you covered! Just enter the details and let our AI expose the truth! 😏</p>
+        <p>This predictor is 100% fun-based and not meant to be taken seriously. Enjoy the ride! 🚀</p>
         <a href="{{ url_for('predict') }}" class="btn">Start Prediction</a>
     </section>
-
     <footer>
         <p>⚠️ This project is for fun and entertainment purposes only! Don't take it seriously. 😆</p>
     </footer>
-
 </body>
 </html>
